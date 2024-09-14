@@ -2,6 +2,7 @@
 > "A child should start by walking, you're not ready to run yet."
 — Jager
 <br>
+
 - 🌱 I’m currently learning **Python**
 - 📖 I'm also trying out the github introductory course.
 
