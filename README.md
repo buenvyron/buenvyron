@@ -6,6 +6,21 @@
 - 🌱 I’m currently learning **Python**
 - 📖 I'm also trying out the github introductory course.
 
+**First day on GitHub**
+  
+- [x] Introduction to GitHub
+- [x] Communicate using Markdown
+- [x] GitHub Pages
+
+**First week on GitHub**
+
+- [x] Review pull requests
+- [ ] Resolve merge conflicts
+- [ ] Release-based workflow
+- [ ] Connect the dots
+- [ ] Code with Codespaces
+- [ ] Code with Copilot
+
 <br>
 <br>
 <br>
