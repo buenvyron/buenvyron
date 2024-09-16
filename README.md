@@ -15,11 +15,11 @@
 **First week on GitHub**
 
 - [x] Review pull requests
-- [ ] Resolve merge conflicts
-- [ ] Release-based workflow
-- [ ] Connect the dots
-- [ ] Code with Codespaces
-- [ ] Code with Copilot
+- [x] Resolve merge conflicts
+- [x] Release-based workflow
+- [x] Connect the dots
+- [x] Code with Codespaces
+- [x] Code with Copilot
 
 <br>
 <br>
